@@ -1,4 +1,4 @@
-# Qly_Diemsinhvien
+
 # 🎓 Hệ Thống Quản Lý Điểm Sinh Viên
 
 ## 📌 Giới thiệu
